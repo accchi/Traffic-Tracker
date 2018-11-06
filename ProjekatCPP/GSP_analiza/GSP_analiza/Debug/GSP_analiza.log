@@ -1,0 +1,5 @@
+﻿  Network.cpp
+d:\faksdrugagodina\poop\projekatcpp\gsp_analiza\gsp_analiza\network.cpp(12): warning C4129: '!': unrecognized character escape sequence
+d:\faksdrugagodina\poop\projekatcpp\gsp_analiza\gsp_analiza\network.cpp(42): warning C4129: '!': unrecognized character escape sequence
+  GSP_analiza.vcxproj -> D:\FaksDrugaGodina\POOP\ProjekatCPP\GSP_analiza\Debug\GSP_analiza.exe
+  GSP_analiza.vcxproj -> D:\FaksDrugaGodina\POOP\ProjekatCPP\GSP_analiza\Debug\GSP_analiza.pdb (Partial PDB)
